@@ -1,0 +1,8 @@
+Frameworks principais da API
+fastapi
+uvicorn
+gunicorn
+Validação de dados e gestão de configurações
+
+pydantic
+pydantic-settings
