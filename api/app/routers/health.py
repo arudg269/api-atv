@@ -1,4 +1,5 @@
-from fastapi import APIRouter, BaseModel
+from fastapi import APIRouter
+from pydantic import BaseModel
 
 # ESTA LINHA ESTAVA FALTANDO!
 # Ela cria a variável 'router' que será usada para definir os endpoints.
